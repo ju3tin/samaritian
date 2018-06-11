@@ -11,6 +11,7 @@
 	<script src="../demos/js/jquery.js"></script>
 	<script src="../demos/_assets/js/index.js"></script>
 	<script src="../demos/js/jquery.mobile-1.4.5.min.js"></script>
+	<base href="/">
 </head>
 <body>
 <div data-role="page" class="jqm-demos jqm-home">
