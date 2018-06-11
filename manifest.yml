@@ -1,5 +1,8 @@
----
 applications:
- - name: GetStartedPHP
-   random-route: true
-   memory: 128M
+  - path: .
+    name: test123b
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services: []
