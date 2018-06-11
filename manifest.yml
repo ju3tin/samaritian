@@ -1,5 +1,5 @@
 ---
 applications:
-- name: sample-php-helloworld
-  random-route: true
-  memory: 128M
+ - name: GetStartedPHP
+   random-route: true
+   memory: 128M
