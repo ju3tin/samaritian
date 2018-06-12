@@ -6,11 +6,11 @@
 	<title>jQuery Mobile Demos</title>
 	<link rel="shortcut icon" href="/demos/favicon.ico">
 	<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.5.min.css">
-	<link rel="stylesheet" href="_assets/css/jqm-demos.css">
+	<link rel="stylesheet" href="../demos/_assets/css/jqm-demos.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-	<script src="js/jquery.js"></script>
-	<script src="_assets/js/index.js"></script>
-	<script src="js/jquery.mobile-1.4.5.min.js"></script>
+	<script src="../demos/js/jquery.js"></script>
+	<script src="../demos/_assets/js/index.js"></script>
+	<script src="../demos/js/jquery.mobile-1.4.5.min.js"></script>
 </head>
 <body>
 <div data-role="page" class="jqm-demos jqm-home">
@@ -28,7 +28,7 @@
 
 		<p><strong>jQuery Mobile is a touch-optimized HTML5 UI framework designed to make responsive web sites and apps that are accessible on all smartphone, tablet and desktop devices.</strong></p>
 
-		<img src="_assets/img/devices.png">
+		<img src=c/img/devices.png">
 
 		<p>New to jQuery Mobile? Get started by reading this <a href="intro/" data-ajax="false">introduction</a>. For technical info, visit the <a href="http://api.jquerymobile.com" title="jQuery Mobile API documentation" target="_blank">API documentation</a>. Downloads and info about the project can be found on <a href="http://jquerymobile.com" title="jQuery Mobile web site" target="_blank">jquerymobile.com</a>.</p>
 
