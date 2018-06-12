@@ -565,26 +565,7 @@
 		</ul>
 	</div>
 </li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Popup widget<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="popup widget popups dialog modal transition tooltip lightbox form overlay screen flip pop fade transition"><a href="../popup/" data-ajax="false">Popup</a></li>
-			<li data-filtertext="popup alignment position"><a href="../popup-alignment/" data-ajax="false">Popup alignment</a></li>
-			<li data-filtertext="popup arrow size popups popover"><a href="../popup-arrow-size/" data-ajax="false">Popup arrow size</a></li>
-			<li data-filtertext="dynamic popups popup images lightbox"><a href="../popup-dynamic/" data-ajax="false">Dynamic popups</a></li>
-			<li data-filtertext="popups with iframes scaling"><a href="../popup-iframe/" data-ajax="false">Popups with iframes</a></li>
-			<li data-filtertext="popup image scaling"><a href="../popup-image-scaling/" data-ajax="false">Popup image scaling</a></li>
-			<li data-filtertext="external popup outside multi-page"><a href="../popup-outside-multipage/" data-ajax="false">Popup outside multi-page</a></li>
-		</ul>
-	</div>
-</li>
-<li data-filtertext="form rangeslider widget dual sliders dual handle sliders range input"><a href="../rangeslider/" data-ajax="false">Rangeslider widget</a></li>
-<li data-filtertext="responsive web design rwd adaptive progressive enhancement PE accessible mobile breakpoints media query media queries"><a href="../rwd/" data-ajax="false">Responsive Web Design</a></li>
+
 
 
 
