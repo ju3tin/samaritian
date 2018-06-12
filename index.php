@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>jQuery Mobile Demos</title>
+	<title>EasyFood</title>
 	<link rel="shortcut icon" href="/demos/favicon.ico">
 	<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.5.min.css">
 	<link rel="stylesheet" href="../demos/_assets/css/jqm-demos.css">
@@ -26,7 +26,7 @@
 
 		<h1>Demos</h1>
 
-		<p><strong>jQuery Mobile is a touch-optimized HTML5 UI framework designed to make responsive web sites and apps that are accessible on all smartphone, tablet and desktop devices.</strong></p>
+		<p><strong>This is a demo for EasyFood using Allied Wallet as a payment Gateway and JQuery Mobile with php and mysql.</strong></p>
 
 		<img src="../demos/_assets/img/devices.png">
 
