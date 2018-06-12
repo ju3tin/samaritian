@@ -30,7 +30,7 @@
 
 		<img src="../demos/_assets/img/devices.png">
 
-		<p>New to jQuery Mobile? Get started by reading this <a href="intro/" data-ajax="false">introduction</a>. For technical info, visit the <a href="http://api.jquerymobile.com" title="jQuery Mobile API documentation" target="_blank">API documentation</a>. Downloads and info about the project can be found on <a href="http://jquerymobile.com" title="jQuery Mobile web site" target="_blank">jquerymobile.com</a>.</p>
+		<p>From this simple demo I will be able to show you that you can have more than 1 resterant using the same Merchant Indefiction Number and also have a referance for each resterant </p>
 
         <div class="ui-grid-a ui-responsive">
         	<div class="ui-block-a">
@@ -87,78 +87,16 @@
 <li data-filtertext="introduction overview getting started"><a href="../intro/" data-ajax="false">Introduction</a></li>
 <li data-filtertext="buttons button markup buttonmarkup method anchor link button element"><a href="../button-markup/" data-ajax="false">Buttons</a></li>
 <li data-filtertext="form button widget input button submit reset"><a href="../button/" data-ajax="false">Button widget</a></li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-		    Checkboxradio widget<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="form checkboxradio widget checkbox input checkboxes controlgroups"><a href="../checkboxradio-checkbox/" data-ajax="false">Checkboxes</a></li>
-			<li data-filtertext="form checkboxradio widget radio input radio buttons controlgroups"><a href="../checkboxradio-radio/" data-ajax="false">Radio buttons</a></li>
+
+
 		</ul>
 	</div>
 </li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Collapsible (set) widget<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="collapsibles content formatting"><a href="../collapsible/" data-ajax="false">Collapsible</a></li>
-			<li data-filtertext="dynamic collapsible set accordion append expand"><a href="../collapsible-dynamic/" data-ajax="false">Dynamic collapsibles</a></li>
-			<li data-filtertext="accordions collapsible set widget content formatting grouped collapsibles"><a href="../collapsibleset/" data-ajax="false">Collapsible set</a></li>
-		</ul>
-	</div>
-</li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Controlgroup widget<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="controlgroups selectmenu checkboxradio input grouped buttons horizontal vertical"><a href="../controlgroup/" data-ajax="false">Controlgroup</a></li>
-			<li data-filtertext="dynamic controlgroup dynamically add buttons"><a href="../controlgroup-dynamic/" data-ajax="false">Dynamic controlgroups</a></li>
-		</ul>
-	</div>
-</li>
-<li data-filtertext="form datepicker widget date input"><a href="../datepicker/" data-ajax="false">Datepicker</a></li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Events<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="swipe to delete list items listviews swipe events"><a href="../swipe-list/" data-ajax="false">Swipe list items</a></li>
-			<li data-filtertext="swipe to navigate swipe page navigation swipe events"><a href="../swipe-page/" data-ajax="false">Swipe page navigation</a></li>
-		</ul>
-	</div>
-</li>
-<li data-filtertext="filterable filter elements sorting searching listview table"><a href="../filterable/" data-ajax="false">Filterable widget</a></li>
-<li data-filtertext="form flipswitch widget flip toggle switch binary select checkbox input"><a href="../flipswitch/" data-ajax="false">Flipswitch widget</a></li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Forms<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="forms text checkbox radio range button submit reset inputs selects textarea slider flipswitch label form elements"><a href="../forms/" data-ajax="false">Forms</a></li>
-			<li data-filtertext="form hide labels hidden accessible ui-hidden-accessible forms"><a href="../forms-label-hidden-accessible/" data-ajax="false">Hide labels</a></li>
-			<li data-filtertext="form field containers fieldcontain ui-field-contain forms"><a href="../forms-field-contain/" data-ajax="false">Field containers</a></li>
-			<li data-filtertext="forms disabled form elements"><a href="../forms-disabled/" data-ajax="false">Forms disabled</a></li>
-			<li data-filtertext="forms gallery examples overview forms text checkbox radio range button submit reset inputs selects textarea slider flipswitch label form elements"><a href="../forms-gallery/" data-ajax="false">Forms gallery</a></li>
-		</ul>
-	</div>
-</li>
+
+
+
+
+
 <li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
 	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
 		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
