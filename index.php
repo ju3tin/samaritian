@@ -207,57 +207,6 @@
 		</ul>
 	</div>
 </li>
-<li data-filtertext="loader widget page loading navigation overlay spinner"><a href="../loader/" data-ajax="false">Loader widget</a></li>
-<li data-filtertext="navbar widget navmenu toolbars header footer"><a href="../navbar/" data-ajax="false">Navbar widget</a></li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Navigation<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="ajax navigation navigate widget history event method"><a href="../navigation/" data-ajax="false">Navigation</a></li>
-			<li data-filtertext="linking pages page links navigation ajax prefetch cache"><a href="../navigation-linking-pages/" data-ajax="false">Linking pages</a></li>
-			<!-- <li data-filtertext="php redirect server redirection server-side navigation"><a href="../navigation-php-redirect/" data-ajax="false">PHP redirect demo</a></li>-->
-			<li data-filtertext="navigation redirection hash query"><a href="../navigation-hash-processing/" data-ajax="false">Hash processing demo</a></li>
-			<li data-filtertext="navigation redirection hash query"><a href="../page-events/" data-ajax="false">Page Navigation Events</a></li>
-		</ul>
-	</div>
-</li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Pages<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="pages page widget ajax navigation"><a href="../pages/" data-ajax="false">Pages</a></li>
-			<li data-filtertext="single page"><a href="../pages-single-page/" data-ajax="false">Single page</a></li>
-			<li data-filtertext="multipage multi-page page"><a href="../pages-multi-page/" data-ajax="false">Multi-page template</a></li>
-			<li data-filtertext="dialog page widget modal popup"><a href="../pages-dialog/" data-ajax="false">Dialog page</a></li>
-		</ul>
-	</div>
-</li>
-<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-	<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-		<a href="#" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-			Panel widget<span class="ui-collapsible-heading-status"> click to expand contents</span>
-		</a>
-	</h3>
-	<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-		<ul>
-			<li data-filtertext="panel widget sliding panels reveal push overlay responsive"><a href="../panel/" data-ajax="false">Panel</a></li>
-			<li data-filtertext=""><a href="../panel-external/" data-ajax="false">External panels</a></li>
-			<li data-filtertext="panel "><a href="../panel-fixed/" data-ajax="false">Fixed panels</a></li>
-			<li data-filtertext="panel slide panels sliding panels shadow rwd responsive breakpoint"><a href="../panel-responsive/" data-ajax="false">Panels responsive</a></li>
-			<li data-filtertext="panel custom style custom panel width reveal shadow listview panel styling page background wrapper"><a href="../panel-styling/" data-ajax="false">Custom panel style</a></li>
-			<li data-filtertext="panel open on swipe"><a href="../panel-swipe-open/" data-ajax="false">Panel open on swipe</a></li>
-			<li data-filtertext="panels outside page internal external toolbars"><a href="../panel-external-internal/" data-ajax="false">Panel external and internal</a></li>
-		</ul>
-	</div>
-</li>
 
 
 
