@@ -73,7 +73,7 @@ $("#loading-img").css("display","block");
 var sendData = $( this ).serialize();
 $.ajax({
 type: "POST",
-url: "get_response.php",
+url: "table.php",
 data: sendData,
 success: function(data){
 $("#loading-img").css("display","none");
