@@ -18,10 +18,10 @@
 
 <?php
 if(!$_ENV["VCAP_SERVICES"]){ //local dev
-    $mysql_server_name = "127.0.0.1:3306";
-    $mysql_username = "root";
-    $mysql_password = "";
-    $mysql_database = "test";
+    $mysql_server_name = "eu-cdbr-sl-lhr-01.cleardb.net:3306";
+    $mysql_username = "ba8b59cfea5cda";
+    $mysql_password = "a701c56b";
+    $mysql_database = "ibmx_fa8d6555e096b37";
 } else { //running in Bluemix
     $vcap_services = json_decode($_ENV["VCAP_SERVICES" ]);
     if($vcap_services->{'mysql-5.5'}){ //if "mysql" db service is bound to this application
