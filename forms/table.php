@@ -9,7 +9,7 @@ $yourEmail = $conn->real_escape_string($_POST['your_email']);
 $yourPhone = $conn->real_escape_string($_POST['your_phone']);
 $comments = $conn->real_escape_string($_POST['comments']);
 
-$sql="INSERT INTO contact_form_info (name, email, phone, comments) VALUES ('".$yourName."','".$yourEmail."', '".$yourPhone."', '".$comments."')";
+$sql="INSERT INTO submerchants (name, email, phone, comments) VALUES ('".$yourName."','".$yourEmail."', '".$yourPhone."', '".$comments."')";
 
 
 if(!$result = $conn->query($sql)){
