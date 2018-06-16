@@ -2,7 +2,7 @@
   <name>Samaritan</name>
   <description>An app that helps you travel safely through new cites</description>
   <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
-  <content src="demos/index.html"/>
+  <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
